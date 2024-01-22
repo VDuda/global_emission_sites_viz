@@ -1,6 +1,6 @@
 # Global Climate Visualized 
 
-Demo Publicly Accessible: [https://global-emissions.onrender.com](Demo Publicly Accessible: https://global-emissions.onrender.com)
+Demo Publicly Accessible: [https://global-emissions.onrender.com](https://global-emissions.onrender.com)
 
 
 
