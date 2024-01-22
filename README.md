@@ -1,9 +1,8 @@
 # Global Climate Visualized 
 
-People 
+Demo Publicly Accessible: [https://global-emissions.onrender.com](Demo Publicly Accessible: https://global-emissions.onrender.com)
 
-Vlad Duda - Organizer vlad@diginomad.xyz
-Karan Daryanani - Guest k.daryanani@hbs.edu
+
 
 
 ## Description
@@ -13,6 +12,22 @@ Climate TRACE is a non-profit alliance that was established in 2020. They utiliz
 ### Diagram explained
 
 Divided by Sector, End Use, Gas
+
+### Running app 
+```
+# Direct access to app for QA
+python sankey_app/src/app.py
+```
+
+```
+# Webserver
+gunicorn --timeout 600 --chdir sankey_app/src app:server
+```
+
+Interactive demo should be publicly accessible on render.
+```
+https://global-emissions.onrender.com
+``` 
 
 
 ## Generating Submission 
