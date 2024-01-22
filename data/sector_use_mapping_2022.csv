@@ -1,0 +1,54 @@
+sector,use_sub_sector,map_code
+Forestry and Land Use,forest-land-degradation,forest-land-degradation
+Forestry and Land Use,net-wetland,net-wetland
+Forestry and Land Use,net-shrubgrass,net-shrubgrass
+Transportation,road-transportation,road-transportation
+Manufacturing,cement,cement
+Agriculture,rice-cultivation,rice-cultivation
+Fossil Fuel Operations,oil-and-gas-production-and-transport,oil-and-gas-production-and-transport
+Mineral Extraction,bauxite-mining,bauxite-mining
+Agriculture,manure-management-other,manure-management-other
+Forestry and Land Use,wetland-fires,wetland-fires
+Mineral Extraction,rock-quarrying,rock-quarrying
+Manufacturing,other-manufacturing,other-manufacturing
+Transportation,railways,railways
+Waste,biological-treatment-of-solid-waste-and-biogenic,biological-treatment-of-solid-waste-and-biogenic
+Mineral Extraction,copper-mining,copper-mining
+Waste,solid-waste-disposal,solid-waste-disposal
+Forestry and Land Use,shrubgrass-fires,shrubgrass-fires
+Agriculture,enteric-fermentation-cattle-feedlot,enteric-fermentation-cattle-feedlot
+Manufacturing,petrochemicals,petrochemicals
+Waste,incineration-and-open-burning-of-waste,incineration-and-open-burning-of-waste
+Fossil Fuel Operations,oil-and-gas-refining,oil-and-gas-refining
+Manufacturing,chemicals,chemicals
+Manufacturing,pulp-and-paper,pulp-and-paper
+Forestry and Land Use,water-reservoirs,water-reservoirs
+Agriculture,enteric-fermentation-other,enteric-fermentation-other
+Fossil Fuel Operations,other-fossil-fuel-operations,other-fossil-fuel-operations
+Agriculture,manure-left-on-pasture-cattle,manure-left-on-pasture-cattle
+Agriculture,enteric-fermentation-cattle-pasture,enteric-fermentation-cattle-pasture
+Transportation,domestic-shipping,domestic-shipping
+Mineral Extraction,sand-quarrying,sand-quarrying
+Removals,removals,removals
+Buildings,residential-and-commercial-onsite-fuel-usage,residential-and-commercial-onsite-fuel-usage
+Agriculture,other-agricultural-soil-emissions,other-agricultural-soil-emissions
+Waste,wastewater-treatment-and-discharge,wastewater-treatment-and-discharge
+Fossil Fuel Operations,solid-fuel-transformation,solid-fuel-transformation
+Agriculture,synthetic-fertilizer-application,synthetic-fertilizer-application
+Manufacturing,steel,steel
+Forestry and Land Use,net-forest-land,net-forest-land
+Transportation,other-transport,other-transport
+Fossil Fuel Operations,coal-mining,coal-mining
+Transportation,international-shipping,international-shipping
+Buildings,other-onsite-fuel-usage,other-onsite-fuel-usage
+Power,electricity-generation,electricity-generation
+Forestry and Land Use,forest-land-fires,forest-land-fires
+Forestry and Land Use,forest-land-clearing,forest-land-clearing
+Mineral Extraction,iron-mining,iron-mining
+Agriculture,cropland-fires,cropland-fires
+Manufacturing,aluminum,aluminum
+Agriculture,manure-management-cattle-feedlot,manure-management-cattle-feedlot
+Transportation,domestic-aviation,domestic-aviation
+Power,other-energy-use,other-energy-use
+Fluorinated gases,fluorinated-gases,fluorinated-gases
+Transportation,international-aviation,international-aviation

@@ -1,0 +1,4 @@
+submission_files_gcv
+*.zip
+tmp/*
+.DS_Store
